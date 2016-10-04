@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ja"
       },
@@ -1069,7 +1069,7 @@
                 "yyyyMMMEEEEd": "Gy年M月d日EEEE",
                 "yyyyMMMM": "Gy年M月",
                 "yyyyQQQ": "Gy/QQQ",
-                "yyyyQQQQ": "GyQQQQ"
+                "yyyyQQQQ": "Gy年QQQQ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

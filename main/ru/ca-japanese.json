@@ -3,8 +3,8 @@
     "ru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "ru"
       },
@@ -224,9 +224,9 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "полночь",
+                  "midnight": "полн.",
                   "am": "ДП",
-                  "noon": "полдень",
+                  "noon": "полд.",
                   "pm": "ПП",
                   "morning1": "утра",
                   "afternoon1": "дня",
@@ -234,9 +234,9 @@
                   "night1": "ночи"
                 },
                 "narrow": {
-                  "midnight": "полночь",
+                  "midnight": "полн.",
                   "am": "ДП",
-                  "noon": "полдень",
+                  "noon": "полд.",
                   "pm": "ПП",
                   "morning1": "утра",
                   "afternoon1": "дня",
@@ -776,13 +776,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -791,7 +791,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -843,7 +843,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -1072,7 +1072,7 @@
                 "Year": "{1} {0}"
               },
               "intervalFormats": {
-                "intervalFormatFallback": "{0} - {1}",
+                "intervalFormatFallback": "{0} – {1}",
                 "d": {
                   "d": "d–d"
                 },
@@ -1120,18 +1120,18 @@
                   "M": "E, dd.MM – E, dd.MM"
                 },
                 "MMM": {
-                  "M": "LLL–LLL"
+                  "M": "LLL – LLL"
                 },
                 "MMMd": {
                   "d": "d–d MMM",
                   "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
-                  "d": "ccc, d - E, d MMM",
+                  "d": "ccc, d – ccc, d MMM",
                   "M": "ccc, d MMM – ccc, d MMM"
                 },
                 "MMMM": {
-                  "M": "LLLL–LLLL"
+                  "M": "LLLL – LLLL"
                 },
                 "y": {
                   "y": "y–y G"
@@ -1151,22 +1151,22 @@
                   "y": "ccc, dd.MM.y – ccc, dd.MM.y G"
                 },
                 "yMMM": {
-                  "M": "LLL–LLL y 'г'. G",
-                  "y": "LLL y – LLL y 'г'. G"
+                  "M": "LLL – LLL y 'г'. G",
+                  "y": "LLL y 'г'. – LLL y 'г'. G"
                 },
                 "yMMMd": {
                   "d": "d–d MMM y 'г'. G",
                   "M": "d MMM – d MMM y 'г'. G",
-                  "y": "d MMM y – d MMM y 'г'. G"
+                  "y": "d MMM y 'г'. – d MMM y 'г'. G"
                 },
                 "yMMMEd": {
                   "d": "ccc, d – ccc, d MMM y 'г'. G",
                   "M": "ccc, d MMM – ccc, d MMM y 'г'. G",
-                  "y": "ccc, d MMM y – ccc, d MMM y 'г'. G"
+                  "y": "ccc, d MMM y 'г'. – ccc, d MMM y 'г'. G"
                 },
                 "yMMMM": {
-                  "M": "LLLL–LLLL y 'г'. G",
-                  "y": "LLLL y – LLLL y 'г'. G"
+                  "M": "LLLL – LLLL y 'г'. G",
+                  "y": "LLLL y 'г'. – LLLL y 'г'. G"
                 }
               }
             }

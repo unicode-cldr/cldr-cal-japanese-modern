@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lv"
       },
@@ -58,18 +58,18 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Janv.",
-                  "2": "Febr.",
-                  "3": "Marts",
-                  "4": "Apr.",
-                  "5": "Maijs",
-                  "6": "Jūn.",
-                  "7": "Jūl.",
-                  "8": "Aug.",
-                  "9": "Sept.",
-                  "10": "Okt.",
-                  "11": "Nov.",
-                  "12": "Dec."
+                  "1": "janv.",
+                  "2": "febr.",
+                  "3": "marts",
+                  "4": "apr.",
+                  "5": "maijs",
+                  "6": "jūn.",
+                  "7": "jūl.",
+                  "8": "aug.",
+                  "9": "sept.",
+                  "10": "okt.",
+                  "11": "nov.",
+                  "12": "dec."
                 },
                 "narrow": {
                   "1": "J",
@@ -86,31 +86,31 @@
                   "12": "D"
                 },
                 "wide": {
-                  "1": "Janvāris",
-                  "2": "Februāris",
-                  "3": "Marts",
-                  "4": "Aprīlis",
-                  "5": "Maijs",
-                  "6": "Jūnijs",
-                  "7": "Jūlijs",
-                  "8": "Augusts",
-                  "9": "Septembris",
-                  "10": "Oktobris",
-                  "11": "Novembris",
-                  "12": "Decembris"
+                  "1": "janvāris",
+                  "2": "februāris",
+                  "3": "marts",
+                  "4": "aprīlis",
+                  "5": "maijs",
+                  "6": "jūnijs",
+                  "7": "jūlijs",
+                  "8": "augusts",
+                  "9": "septembris",
+                  "10": "oktobris",
+                  "11": "novembris",
+                  "12": "decembris"
                 }
               }
             },
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Sv",
-                  "mon": "Pr",
-                  "tue": "Ot",
-                  "wed": "Tr",
-                  "thu": "Ce",
-                  "fri": "Pk",
-                  "sat": "Se"
+                  "sun": "svētd.",
+                  "mon": "pirmd.",
+                  "tue": "otrd.",
+                  "wed": "trešd.",
+                  "thu": "ceturtd.",
+                  "fri": "piektd.",
+                  "sat": "sestd."
                 },
                 "narrow": {
                   "sun": "S",
@@ -142,13 +142,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Sv",
-                  "mon": "Pr",
-                  "tue": "Ot",
-                  "wed": "Tr",
-                  "thu": "Ce",
-                  "fri": "Pk",
-                  "sat": "Se"
+                  "sun": "Svētd.",
+                  "mon": "Pirmd.",
+                  "tue": "Otrd.",
+                  "wed": "Trešd.",
+                  "thu": "Ceturtd.",
+                  "fri": "Piektd.",
+                  "sat": "Sestd."
                 },
                 "narrow": {
                   "sun": "S",
@@ -271,13 +271,13 @@
                   "noon": "pusd.",
                   "pm": "pēcp.",
                   "morning1": "rīts",
-                  "afternoon1": "pēcpusdiena",
+                  "afternoon1": "pēcpusd.",
                   "evening1": "vakars",
                   "night1": "nakts"
                 },
                 "wide": {
                   "midnight": "pusnakts",
-                  "am": "priekšpusdienā",
+                  "am": "priekšpusdiena",
                   "noon": "pusdienlaiks",
                   "pm": "pēcpusdiena",
                   "morning1": "rīts",
@@ -300,13 +300,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -315,7 +315,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -367,7 +367,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -538,13 +538,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -553,7 +553,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -605,7 +605,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -776,13 +776,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -791,7 +791,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -843,7 +843,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -1075,7 +1075,7 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0}–{1}",
                 "d": {
-                  "d": "d–d"
+                  "d": "d.–d."
                 },
                 "h": {
                   "a": "h a – h a",

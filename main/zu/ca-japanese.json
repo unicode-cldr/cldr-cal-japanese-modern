@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12922 $",
+          "_cldrVersion": "30"
         },
         "language": "zu"
       },
@@ -42,7 +42,7 @@
                   "12": "D"
                 },
                 "wide": {
-                  "1": "Januwari",
+                  "1": "UMasingana",
                   "2": "Februwari",
                   "3": "Mashi",
                   "4": "Ephreli",
@@ -226,27 +226,27 @@
                 "abbreviated": {
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "ekuseni",
+                  "morning1": "entathakusa",
                   "morning2": "ekuseni",
-                  "afternoon1": "ntambama",
+                  "afternoon1": "emini",
                   "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "narrow": {
                   "am": "a",
                   "pm": "p",
-                  "morning1": "ekuseni",
+                  "morning1": "entathakusa",
                   "morning2": "ekuseni",
-                  "afternoon1": "ntambama",
+                  "afternoon1": "emini",
                   "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "wide": {
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "ekuseni",
-                  "morning2": "ekuseni2",
-                  "afternoon1": "ntambama",
+                  "morning1": "entathakusa",
+                  "morning2": "ekuseni",
+                  "afternoon1": "emini",
                   "evening1": "ntambama",
                   "night1": "ebusuku"
                 }
@@ -258,7 +258,7 @@
                   "morning1": "entathakusa",
                   "morning2": "ekuseni",
                   "afternoon1": "emini",
-                  "evening1": "ebusuku1",
+                  "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "narrow": {
@@ -267,16 +267,16 @@
                   "morning1": "entathakusa",
                   "morning2": "ekuseni",
                   "afternoon1": "emini",
-                  "evening1": "ebusuku1",
+                  "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "wide": {
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "entathakusa",
-                  "morning2": "ekuseni2",
+                  "morning2": "ekuseni",
                   "afternoon1": "emini",
-                  "evening1": "ebusuku1",
+                  "evening1": "ntambama",
                   "night1": "ebusuku"
                 }
               }
@@ -294,13 +294,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -309,7 +309,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -361,7 +361,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -532,13 +532,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -547,7 +547,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -599,7 +599,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -770,13 +770,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -785,7 +785,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -837,7 +837,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -1004,10 +1004,10 @@
               "short": "GGGGG y-MM-dd"
             },
             "timeFormats": {
-              "full": "h:mm:ss a zzzz",
-              "long": "h:mm:ss a z",
-              "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -1125,7 +1125,7 @@
                   "M": "MMM–MMM"
                 },
                 "MMMd": {
-                  "d": "MMM d–d",
+                  "d": "MMM d – d",
                   "M": "MMM d – MMM d"
                 },
                 "MMMEd": {
@@ -1150,11 +1150,11 @@
                   "y": "E, M/d/y – E, M/d/y"
                 },
                 "yMMM": {
-                  "M": "MMM–MMM y",
+                  "M": "MMM – MMM y G",
                   "y": "MMM y – MMM y"
                 },
                 "yMMMd": {
-                  "d": "MMM d–d, y",
+                  "d": "MMM d – d, y G",
                   "M": "MMM d – MMM d, y",
                   "y": "MMM d, y – MMM d, y"
                 },
@@ -1164,7 +1164,7 @@
                   "y": "E, MMM d, y – E, MMM d, y"
                 },
                 "yMMMM": {
-                  "M": "MMMM–MMMM y",
+                  "M": "MMMM – MMMM y G",
                   "y": "MMMM y – MMMM y"
                 }
               }

@@ -3,8 +3,8 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "uz",
         "script": "Latn"
@@ -51,25 +51,25 @@
                   "6": "iyun",
                   "7": "iyul",
                   "8": "avgust",
-                  "9": "Sentabr",
-                  "10": "Oktabr",
+                  "9": "sentabr",
+                  "10": "oktabr",
                   "11": "noyabr",
                   "12": "dekabr"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Yanv",
+                  "1": "Yan",
                   "2": "Fev",
                   "3": "Mar",
                   "4": "Apr",
                   "5": "May",
-                  "6": "Iyun",
-                  "7": "Iyul",
+                  "6": "Iyn",
+                  "7": "Iyl",
                   "8": "Avg",
                   "9": "Sen",
                   "10": "Okt",
-                  "11": "Noya",
+                  "11": "Noy",
                   "12": "Dek"
                 },
                 "narrow": {
@@ -105,13 +105,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Ya",
-                  "mon": "Du",
-                  "tue": "Se",
-                  "wed": "Ch",
-                  "thu": "Pa",
-                  "fri": "Ju",
-                  "sat": "Sh"
+                  "sun": "Yak",
+                  "mon": "Dush",
+                  "tue": "Sesh",
+                  "wed": "Chor",
+                  "thu": "Pay",
+                  "fri": "Jum",
+                  "sat": "Shan"
                 },
                 "narrow": {
                   "sun": "Y",
@@ -143,13 +143,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Ya",
-                  "mon": "Du",
-                  "tue": "Se",
-                  "wed": "Ch",
-                  "thu": "Pa",
-                  "fri": "Ju",
-                  "sat": "Sh"
+                  "sun": "Yak",
+                  "mon": "Dush",
+                  "tue": "Sesh",
+                  "wed": "Chor",
+                  "thu": "Pay",
+                  "fri": "Jum",
+                  "sat": "Shan"
                 },
                 "narrow": {
                   "sun": "Y",
@@ -225,7 +225,7 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -235,7 +235,7 @@
                   "night1": "kechasi"
                 },
                 "narrow": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -245,7 +245,7 @@
                   "night1": "kechasi"
                 },
                 "wide": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -257,7 +257,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -267,7 +267,7 @@
                   "night1": "kechasi"
                 },
                 "narrow": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -277,7 +277,7 @@
                   "night1": "kechasi"
                 },
                 "wide": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -301,13 +301,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -316,7 +316,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -368,7 +368,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -539,13 +539,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -554,7 +554,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -606,7 +606,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -777,13 +777,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -792,7 +792,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -844,7 +844,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -1005,10 +1005,10 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, d-MMMM, G y",
-              "long": "d-MMMM, G y",
-              "medium": "d-MMM, G y",
-              "short": "GGGGG dd/MM/y"
+              "full": "EEEE, d-MMMM, y (G)",
+              "long": "d-MMMM, y (G)",
+              "medium": "d-MMM, y (G)",
+              "short": "dd.MM.y (GGGGG)"
             },
             "timeFormats": {
               "full": "H:mm:ss (zzzz)",
@@ -1024,38 +1024,38 @@
               "availableFormats": {
                 "d": "d",
                 "E": "ccc",
-                "Ed": "d, E",
+                "Ed": "E, d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
-                "Gy": "G y",
-                "GyMMM": "MMM, G y",
-                "GyMMMd": "d-MMM, G y",
-                "GyMMMEd": "E, d-MMM, G y",
+                "Gy": "y (G)",
+                "GyMMM": "MMM, y (G)",
+                "GyMMMd": "d-MMM, y (G)",
+                "GyMMMEd": "E, d-MMM, y (G)",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
                 "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
-                "M": "LL",
-                "Md": "dd/MM",
-                "MEd": "E, dd/MM",
+                "M": "L",
+                "Md": "dd.MM",
+                "MEd": "E, dd.MM",
                 "MMM": "LLL",
                 "MMMd": "d-MMM",
                 "MMMEd": "E, d-MMM",
                 "MMMMd": "d-MMMM",
                 "ms": "mm:ss",
-                "y": "G y",
-                "yyyy": "G y",
-                "yyyyM": "MM/y (GGGGG)",
-                "yyyyMd": "dd/MM/y (GGGGG)",
-                "yyyyMEd": "E, dd/MM/y (GGGGG)",
-                "yyyyMMM": "MMM, G y",
-                "yyyyMMMd": "d-MMM, G y",
-                "yyyyMMMEd": "E, d-MMM, G y",
-                "yyyyMMMM": "MMMM, G y",
+                "y": "y (G)",
+                "yyyy": "y (G)",
+                "yyyyM": "MM.y (GGGGG)",
+                "yyyyMd": "dd.MM.y (GGGGG)",
+                "yyyyMEd": "E, dd.MM.y (GGGGG)",
+                "yyyyMMM": "y (G), MMM",
+                "yyyyMMMd": "d-MMM, y (G)",
+                "yyyyMMMEd": "E, d-MMM, y (G)",
+                "yyyyMMMM": "y (G), MMMM",
                 "yyyyQQQ": "y (G), QQQ",
                 "yyyyQQQQ": "y (G), QQQQ"
               },
@@ -1113,12 +1113,12 @@
                   "M": "MM–MM"
                 },
                 "Md": {
-                  "d": "dd/MM – dd/MM",
-                  "M": "dd/MM – dd/MM"
+                  "d": "dd.MM – dd.MM",
+                  "M": "dd.MM – dd.MM"
                 },
                 "MEd": {
-                  "d": "E, dd/MM – E, dd/MM",
-                  "M": "E, dd/MM – E, dd/MM"
+                  "d": "E, dd.MM – E, dd.MM",
+                  "M": "E, dd.MM – E, dd.MM"
                 },
                 "MMM": {
                   "M": "MMM – MMM"
@@ -1132,29 +1132,29 @@
                   "M": "E, d-MMM – E, d-MMM"
                 },
                 "y": {
-                  "y": "G y–y"
+                  "y": "y–y (G)"
                 },
                 "yM": {
-                  "M": "MM/y – MM/y (GGGGG)",
-                  "y": "MM/y – MM/y (GGGGG)"
+                  "M": "MM.y – MM.y (GGGGG)",
+                  "y": "MM.y – MM.y (GGGGG)"
                 },
                 "yMd": {
-                  "d": "dd/MM/y – dd/MM/y (GGGGG)",
-                  "M": "dd/MM/y – dd/MM/y (GGGGG)",
-                  "y": "dd/MM/y – dd/MM/y (GGGGG)"
+                  "d": "dd.MM.y – dd.MM.y (GGGGG)",
+                  "M": "dd.MM.y – dd.MM.y (GGGGG)",
+                  "y": "dd.MM.y – dd.MM.y (GGGGG)"
                 },
                 "yMEd": {
-                  "d": "E, dd/MM/y – E, dd/MM/y (GGGGG)",
-                  "M": "E, dd/MM/y – E, dd/MM/y (GGGGG)",
-                  "y": "E, dd/MM/y – E, dd/MM/y (GGGGG)"
+                  "d": "E, dd.MM.y – E, dd.MM.y (GGGGG)",
+                  "M": "E, dd.MM.y – E, dd.MM.y (GGGGG)",
+                  "y": "E, dd.MM.y – E, dd.MM.y (GGGGG)"
                 },
                 "yMMM": {
-                  "M": "MMM – MMM, G y",
-                  "y": "MMM, y – MMM, y (G)"
+                  "M": "y (G), MMM – MMM",
+                  "y": "y (G), MMM – y, MMM"
                 },
                 "yMMMd": {
-                  "d": "d – d-MMM, G y",
-                  "M": "d-MMM – d-MMM, G y",
+                  "d": "d – d-MMM, y (G)",
+                  "M": "d-MMM – d-MMM, y (G)",
                   "y": "d-MMM, y – d-MMM, y (G)"
                 },
                 "yMMMEd": {

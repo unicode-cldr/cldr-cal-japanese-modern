@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lo"
       },
@@ -104,22 +104,22 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "ວັນອາທິດ",
-                  "mon": "ວັນຈັນ",
-                  "tue": "ວັນອັງຄານ",
-                  "wed": "ວັນພຸດ",
-                  "thu": "ວັນພະຫັດ",
-                  "fri": "ວັນສຸກ",
-                  "sat": "ວັນເສົາ"
+                  "sun": "ອາທິດ",
+                  "mon": "ຈັນ",
+                  "tue": "ອັງຄານ",
+                  "wed": "ພຸດ",
+                  "thu": "ພະຫັດ",
+                  "fri": "ສຸກ",
+                  "sat": "ເສົາ"
                 },
                 "narrow": {
-                  "sun": "1",
-                  "mon": "2",
-                  "tue": "3",
-                  "wed": "4",
-                  "thu": "5",
-                  "fri": "6",
-                  "sat": "7"
+                  "sun": "ອາ",
+                  "mon": "ຈ",
+                  "tue": "ອ",
+                  "wed": "ພ",
+                  "thu": "ພຫ",
+                  "fri": "ສຸ",
+                  "sat": "ສ"
                 },
                 "short": {
                   "sun": "ອາ.",
@@ -151,7 +151,7 @@
                   "sat": "ເສົາ"
                 },
                 "narrow": {
-                  "sun": "ອ",
+                  "sun": "ອາ",
                   "mon": "ຈ",
                   "tue": "ອ",
                   "wed": "ພ",
@@ -226,7 +226,7 @@
                 "abbreviated": {
                   "midnight": "ທ່ຽງຄືນ",
                   "am": "ກ່ອນທ່ຽງ",
-                  "noon": "ທ່ຽງ",
+                  "noon": "ຕອນທ່ຽງ",
                   "pm": "ຫຼັງທ່ຽງ",
                   "morning1": "ຕອນເຊົ້າ",
                   "afternoon1": "ຕອນບ່າຍ",
@@ -234,8 +234,8 @@
                   "night1": "ກາງຄືນ"
                 },
                 "narrow": {
-                  "midnight": "ທ່ຽງຄືນ",
-                  "am": "ຕອນເຊົ້າ",
+                  "midnight": "ທຄ",
+                  "am": "ກທ",
                   "noon": "ທ",
                   "pm": "ຫຼທ",
                   "morning1": "ຕອນເຊົ້າ",
@@ -246,7 +246,7 @@
                 "wide": {
                   "midnight": "ທ່ຽງຄືນ",
                   "am": "ກ່ອນທ່ຽງ",
-                  "noon": "ທ່ຽງ",
+                  "noon": "ຕອນທ່ຽງ",
                   "pm": "ຫຼັງທ່ຽງ",
                   "morning1": "ຕອນເຊົ້າ",
                   "afternoon1": "ຕອນບ່າຍ",
@@ -258,7 +258,7 @@
                 "abbreviated": {
                   "midnight": "ທ່ຽງ​ຄືນ",
                   "am": "ກ່ອນທ່ຽງ",
-                  "noon": "ຕອນທ່ຽງ",
+                  "noon": "ທ່ຽງ",
                   "pm": "ຫຼັງທ່ຽງ",
                   "morning1": "​ເຊົ້າ",
                   "afternoon1": "ສວຍ",
@@ -266,17 +266,17 @@
                   "night1": "​ກາງ​ຄືນ"
                 },
                 "narrow": {
-                  "midnight": "ທ່ຽງ​ຄືນ",
+                  "midnight": "ທຄ",
                   "am": "ກທ",
                   "noon": "ຕອນທ່ຽງ",
                   "pm": "ຫຼທ",
-                  "morning1": "​ເຊົ້າ",
-                  "afternoon1": "ສວຍ",
-                  "evening1": "ແລງ",
-                  "night1": "​ກາງ​ຄືນ"
+                  "morning1": "ຊ",
+                  "afternoon1": "ສ",
+                  "evening1": "ລ",
+                  "night1": "ກຄ"
                 },
                 "wide": {
-                  "midnight": "ທ່ຽງ​ຄືນ",
+                  "midnight": "ທ່ຽງຄືນ",
                   "am": "ກ່ອນທ່ຽງ",
                   "noon": "ຕອນທ່ຽງ",
                   "pm": "ຫຼັງທ່ຽງ",
@@ -776,13 +776,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749-749)",
-                "12": "Tenpyō-shōhō (749-757)",
-                "13": "Tenpyō-hōji (757-765)",
-                "14": "Tenpyō-jingo (765-767)",
-                "15": "Jingo-keiun (767-770)",
+                "11": "Tenpyō-kampō (749–749)",
+                "12": "Tenpyō-shōhō (749–757)",
+                "13": "Tenpyō-hōji (757–765)",
+                "14": "Tenpyō-jingo (765–767)",
+                "15": "Jingo-keiun (767–770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781-782)",
+                "17": "Ten-ō (781–782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -791,7 +791,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857-859)",
+                "26": "Ten-an (857–859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -843,7 +843,7 @@
                 "75": "Chōji (1104–1106)",
                 "76": "Kashō (1106–1108)",
                 "77": "Tennin (1108–1110)",
-                "78": "Ten-ei (1110-1113)",
+                "78": "Ten-ei (1110–1113)",
                 "79": "Eikyū (1113–1118)",
                 "80": "Gen’ei (1118–1120)",
                 "81": "Hōan (1120–1124)",
@@ -1112,58 +1112,58 @@
                   "M": "M–M"
                 },
                 "Md": {
-                  "d": "MM-dd – dd",
-                  "M": "MM-dd – MM-dd"
+                  "d": "d/M – d/M",
+                  "M": "d/M – d/M"
                 },
                 "MEd": {
-                  "d": "E, MM-dd – E, MM-dd",
-                  "M": "E, MM-dd – E, MM-dd"
+                  "d": "E, dd-MM – E, dd-MM",
+                  "M": "E, dd-MM – E, dd-MM"
                 },
                 "MMM": {
-                  "M": "LLL–LLL"
+                  "M": "MMM – MMM"
                 },
                 "MMMd": {
                   "d": "MM-d – d",
-                  "M": "MM-d – MM-d"
+                  "M": "d-MM – d-MM"
                 },
                 "MMMEd": {
-                  "d": "E, MM-d – E, MM-d",
-                  "M": "E, MM-d – E, MM-d"
+                  "d": "E, d-MM – E, d-MM",
+                  "M": "E, d-MM – E, d-MM"
                 },
                 "y": {
                   "y": "G y–y"
                 },
                 "yM": {
-                  "M": "G y-MM – MM",
-                  "y": "G y-MM – y-MM"
+                  "M": "M/y – M/y GGGGG",
+                  "y": "M/y – M/y GGGGG"
                 },
                 "yMd": {
-                  "d": "G y-MM-dd – dd",
-                  "M": "G y-MM-dd – MM-dd",
-                  "y": "G y-MM-dd – y-MM-dd"
+                  "d": "d/M/y – d/M/y GGGGG",
+                  "M": "d/M/y – d/M/y GGGGG",
+                  "y": "d/M/y – d/M/y GGGGG"
                 },
                 "yMEd": {
-                  "d": "E, G y-MM-dd – E, y-MM-dd",
-                  "M": "E, G y-MM-dd – E, y-MM-dd",
-                  "y": "E, G y-MM-dd – E, y-MM-dd"
+                  "d": "E, d/M/y – E, d/M/y GGGGG",
+                  "M": "E, d/M/y – E, d/M/y GGGGG",
+                  "y": "E, d/M/y – E, d/M/y GGGGG"
                 },
                 "yMMM": {
-                  "M": "G y-MM – MM",
-                  "y": "G y-MM – y-MM"
+                  "M": "MMM – MMM y G",
+                  "y": "MMM y – MMM y G"
                 },
                 "yMMMd": {
-                  "d": "G y-MM-d – d",
-                  "M": "G y-MM-dd – MM-d",
-                  "y": "G y-MM-dd – y-MM-dd"
+                  "d": "d–d MMM, y G",
+                  "M": "d MMM – d MMM, y G",
+                  "y": "d MMM y – d MMM y G"
                 },
                 "yMMMEd": {
-                  "d": "E, G y-MM-dd – E, y-MM-dd",
-                  "M": "E, G y-MM-dd – E, y-MM-dd",
-                  "y": "E, G y-MM-dd – E, y-MM-dd"
+                  "d": "E, G dd-MM-y – E, dd-MM-y",
+                  "M": "E, G dd-MM-y – E, dd-MM-y",
+                  "y": "E, d MMM y – E, d MMM y G"
                 },
                 "yMMMM": {
-                  "M": "G y-MM – MM",
-                  "y": "G y-MM – y-MM"
+                  "M": "MMMM – MMMM y G",
+                  "y": "MMMM y – MMMM y G"
                 }
               }
             }
