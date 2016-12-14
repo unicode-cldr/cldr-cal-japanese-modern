@@ -1,8 +1,8 @@
 {
   "name": "cldr-cal-japanese-modern",
-  "version": "30.0.2",
+  "version": "30.0.3",
   "dependencies": {
-    "cldr-dates-modern": "30.0.2"
+    "cldr-dates-modern": "30.0.3"
   },
   "main": "main/**/*.json",
   "ignore": [
