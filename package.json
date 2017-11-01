@@ -1,8 +1,8 @@
 {
   "name": "cldr-cal-japanese-modern",
-  "version": "31.0.1",
+  "version": "32.0.0",
   "peerDependencies": {
-    "cldr-dates-modern": "31.0.1"
+    "cldr-dates-modern": "32.0.0"
   },
   "homepage": "http://cldr.unicode.org",
   "author": "The Unicode Consortium",

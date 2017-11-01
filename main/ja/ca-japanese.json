@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ja"
       },
@@ -297,7 +297,7 @@
               "eraNames": {
                 "0": "大化",
                 "1": "白雉",
-                "2": "白鳯",
+                "2": "白鳳",
                 "3": "朱鳥",
                 "4": "大宝",
                 "5": "慶雲",
@@ -535,7 +535,7 @@
               "eraAbbr": {
                 "0": "大化",
                 "1": "白雉",
-                "2": "白鳯",
+                "2": "白鳳",
                 "3": "朱鳥",
                 "4": "大宝",
                 "5": "慶雲",
@@ -773,7 +773,7 @@
               "eraNarrow": {
                 "0": "大化",
                 "1": "白雉",
-                "2": "白鳯",
+                "2": "白鳳",
                 "3": "朱鳥",
                 "4": "大宝",
                 "5": "慶雲",
@@ -1027,14 +1027,19 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "BK時",
+                "Bhm": "BK:mm",
+                "Bhms": "BK:mm:ss",
                 "d": "d日",
                 "E": "ccc",
+                "EBhm": "BK:mm (E)",
+                "EBhms": "BK:mm:ss (E)",
                 "Ed": "d日(E)",
                 "EEEEd": "d日EEEE",
-                "Ehm": "E h:mm a",
-                "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
-                "EHms": "E HH:mm:ss",
+                "Ehm": "aK:mm (E)",
+                "EHm": "H:mm (E)",
+                "Ehms": "aK:mm:ss (E)",
+                "EHms": "H:mm:ss (E)",
                 "Gy": "Gy年",
                 "GyMMM": "Gy年M月",
                 "GyMMMd": "Gy年M月d日",

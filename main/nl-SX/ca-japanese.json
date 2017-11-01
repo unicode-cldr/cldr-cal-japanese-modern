@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "nl",
         "territory": "SX"
@@ -228,10 +228,10 @@
                   "midnight": "middernacht",
                   "am": "a.m.",
                   "pm": "p.m.",
-                  "morning1": "ochtend",
-                  "afternoon1": "middag",
-                  "evening1": "avond",
-                  "night1": "nacht"
+                  "morning1": "‘s ochtends",
+                  "afternoon1": "‘s middags",
+                  "evening1": "‘s avonds",
+                  "night1": "‘s nachts"
                 },
                 "narrow": {
                   "midnight": "middernacht",
@@ -771,13 +771,13 @@
                 "8": "Yōrō (717–724)",
                 "9": "Jinki (724–729)",
                 "10": "Tenpyō (729–749)",
-                "11": "Tenpyō-kampō (749–749)",
-                "12": "Tenpyō-shōhō (749–757)",
+                "11": "Tenpyō-kampō (749-749)",
+                "12": "Tenpyō-shōhō (749-757)",
                 "13": "Tenpyō-hōji (757–765)",
-                "14": "Tenpyō-jingo (765–767)",
-                "15": "Jingo-keiun (767–770)",
+                "14": "Tenpyō-jingo (765-767)",
+                "15": "Jingo-keiun (767-770)",
                 "16": "Hōki (770–780)",
-                "17": "Ten-ō (781–782)",
+                "17": "Ten-ō (781-782)",
                 "18": "Enryaku (782–806)",
                 "19": "Daidō (806–810)",
                 "20": "Kōnin (810–824)",
@@ -786,7 +786,7 @@
                 "23": "Kajō (848–851)",
                 "24": "Ninju (851–854)",
                 "25": "Saikō (854–857)",
-                "26": "Ten-an (857–859)",
+                "26": "Ten-an (857-859)",
                 "27": "Jōgan (859–877)",
                 "28": "Gangyō (877–885)",
                 "29": "Ninna (885–889)",
@@ -1016,8 +1016,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
