@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ko",
         "territory": "KP"
@@ -531,7 +531,8 @@
                 "232": "메이지",
                 "233": "다이쇼",
                 "234": "쇼와",
-                "235": "헤이세이"
+                "235": "헤이세이",
+                "236": "Qqqq"
               },
               "eraAbbr": {
                 "0": "다이카 (645 ~ 650)",
@@ -769,7 +770,8 @@
                 "232": "메이지",
                 "233": "다이쇼",
                 "234": "쇼와",
-                "235": "헤이세이"
+                "235": "헤이세이",
+                "236": "Qqqq"
               },
               "eraNarrow": {
                 "0": "Taika (645–650)",
@@ -1007,7 +1009,8 @@
                 "232": "M",
                 "233": "T",
                 "234": "S",
-                "235": "H"
+                "235": "H",
+                "236": "Q"
               }
             },
             "dateFormats": {
@@ -1042,10 +1045,10 @@
                 "Ehms": "E a h:mm:ss",
                 "EHms": "E HH:mm:ss",
                 "Gy": "G y년",
-                "GyMMM": "G y년 MMM월",
-                "GyMMMd": "G y년 MMM월 d일",
-                "GyMMMEd": "G y년 MMM월 d일 (E)",
-                "GyMMMEEEEd": "G y년 MMM월 d일 EEEE",
+                "GyMMM": "G y년 MMM",
+                "GyMMMd": "G y년 MMM d일",
+                "GyMMMEd": "G y년 MMM d일 (E)",
+                "GyMMMEEEEd": "G y년 MMM d일 EEEE",
                 "h": "a h시",
                 "H": "H시",
                 "HHmmss": "HH:mm:ss",
@@ -1058,10 +1061,10 @@
                 "MEd": "M. d. (E)",
                 "MEEEEd": "M. d. EEEE",
                 "MMM": "LLL",
-                "MMMd": "MMM월 d일",
-                "MMMEd": "MMM월 d일 (E)",
-                "MMMEEEEd": "MMM월 d일 EEEE",
-                "MMMMd": "MMMM월 d일",
+                "MMMd": "MMM d일",
+                "MMMEd": "MMM d일 (E)",
+                "MMMEEEEd": "MMM d일 EEEE",
+                "MMMMd": "MMMM d일",
                 "ms": "mm:ss",
                 "y": "G y년",
                 "yyyy": "G y년",
@@ -1069,11 +1072,11 @@
                 "yyyyMd": "G y. M. d.",
                 "yyyyMEd": "G y. M. d. (E)",
                 "yyyyMEEEEd": "G y. M. d. EEEE",
-                "yyyyMMM": "G y년 MMM월",
-                "yyyyMMMd": "G y년 MMM월 d일",
-                "yyyyMMMEd": "G y년 MMM월 d일 (E)",
-                "yyyyMMMEEEEd": "G y년 MMM월 d일 EEEE",
-                "yyyyMMMM": "G y년 MMMM월",
+                "yyyyMMM": "G y년 MMM",
+                "yyyyMMMd": "G y년 MMM d일",
+                "yyyyMMMEd": "G y년 MMM d일 (E)",
+                "yyyyMMMEEEEd": "G y년 MMM d일 EEEE",
+                "yyyyMMMM": "G y년 MMMM",
                 "yyyyQQQ": "G y년 QQQ",
                 "yyyyQQQQ": "G y년 QQQQ"
               },
@@ -1094,6 +1097,44 @@
                 "intervalFormatFallback": "{0} ~ {1}",
                 "d": {
                   "d": "d일 ~ d일"
+                },
+                "Gy": {
+                  "G": "G y – G y",
+                  "y": "G y–y"
+                },
+                "GyM": {
+                  "G": "GGGGG y-MM – GGGGG y-MM",
+                  "M": "GGGGG y-MM – y-MM",
+                  "y": "GGGGG y-MM – y-MM"
+                },
+                "GyMd": {
+                  "d": "GGGGG y-MM-dd – y-MM-dd",
+                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
+                  "M": "GGGGG y-MM-dd – y-MM-dd",
+                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                },
+                "GyMEd": {
+                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
+                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                },
+                "GyMMM": {
+                  "G": "G y MMM – G y MMM",
+                  "M": "G y MMM–MMM",
+                  "y": "G y MMM – y MMM"
+                },
+                "GyMMMd": {
+                  "d": "G y MMM d–d",
+                  "G": "G y MMM d – G y MMM d",
+                  "M": "G y MMM d – MMM d",
+                  "y": "G y MMM d – y MMM d"
+                },
+                "GyMMMEd": {
+                  "d": "G y MMM d, E – MMM d, E",
+                  "G": "G y MMM d, E – G y MMM d, E",
+                  "M": "G y MMM d, E – MMM d, E",
+                  "y": "G y MMM d, E – y MMM d, E"
                 },
                 "h": {
                   "a": "a h시 ~ a h시",
