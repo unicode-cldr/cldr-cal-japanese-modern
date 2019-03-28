@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hant",
@@ -1058,9 +1058,9 @@
                 "Md": "M/d",
                 "MEd": "M/d（E）",
                 "MMM": "LLL",
-                "MMMd": "MMM d",
+                "MMMd": "M月d日",
                 "MMMEd": "M月d日E",
-                "MMMMd": "MMMM d",
+                "MMMMd": "M月d日",
                 "ms": "mm:ss",
                 "y": "Gy年",
                 "yyyy": "Gy年",
@@ -1089,6 +1089,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d日至d日"
                 },
