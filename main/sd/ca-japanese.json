@@ -3,8 +3,8 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "sd"
       },
@@ -489,7 +489,7 @@
                 "233": "Taishō",
                 "234": "Shōwa",
                 "235": "Heisei",
-                "236": "Qqqq"
+                "236": "Reiwa"
               },
               "eraAbbr": {
                 "0": "Taika (645–650)",
@@ -728,7 +728,7 @@
                 "233": "Taishō",
                 "234": "Shōwa",
                 "235": "Heisei",
-                "236": "Qqqq"
+                "236": "Reiwa"
               },
               "eraNarrow": {
                 "0": "Taika (645–650)",
@@ -967,7 +967,7 @@
                 "233": "T",
                 "234": "S",
                 "235": "H",
-                "236": "Q"
+                "236": "R"
               }
             },
             "dateFormats": {

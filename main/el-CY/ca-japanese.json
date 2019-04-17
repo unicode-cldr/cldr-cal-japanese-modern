@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35"
+          "_cldrVersion": "35.1"
         },
         "language": "el",
         "territory": "CY"
@@ -513,8 +513,8 @@
                 "232": "Meiji",
                 "233": "Taishō",
                 "234": "Shōwa",
-                "235": "Heisei",
-                "236": "Qqqq"
+                "235": "Χεϊσέι",
+                "236": "Ρέιβα"
               },
               "eraAbbr": {
                 "0": "Taika (645–650)",
@@ -752,8 +752,8 @@
                 "232": "Meiji",
                 "233": "Taishō",
                 "234": "Shōwa",
-                "235": "Heisei",
-                "236": "Qqqq"
+                "235": "Χεϊσέι",
+                "236": "Ρέιβα"
               },
               "eraNarrow": {
                 "0": "Taika (645–650)",
@@ -992,7 +992,7 @@
                 "233": "T",
                 "234": "S",
                 "235": "H",
-                "236": "Q"
+                "236": "R"
               }
             },
             "dateFormats": {
